@@ -1,0 +1,9 @@
+Konfigurasi,TN,FP,FN,TP
+Perceptron | eta=0.001 | std,3224,1144,1396,4236
+Perceptron | eta=0.01 | std,3224,1144,1396,4236
+Perceptron | eta=0.1 | std,3224,1144,1396,4236
+ADALINE | eta=0.001 | std,3320,1048,1549,4083
+ADALINE | eta=0.01 | std,3351,1017,1307,4325
+ADALINE | eta=0.1 | std,3397,971,1086,4546
+Perceptron | eta=0.01 | tanpa std,4315,53,5510,122
+ADALINE | eta=0.01 | tanpa std,4368,0,5632,0
