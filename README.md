@@ -2,7 +2,7 @@
 
 Tugas Besar 1 mata kuliah **Jaringan Syaraf Tiruan**.
 
-Kasus memprediksi apakah suatu pesanan e-commerce akan **terlambat dikirim** berdasarkan informasi yang sudah tersedia saat pesanan diproses (berat, nilai, jarak, estimasi hari, biaya kirim, lama proses gudang, segmen pelanggan, kategori produk, metode kirim, kurir, ukuran paket, metode bayar, prioritas, dan cuaca). Masalah ini dirumuskan sebagai **klasifikasi biner terawasi**:
+Kasus dari tugas ini adalah memprediksi apakah suatu pesanan e-commerce akan **terlambat dikirim** berdasarkan informasi yang sudah tersedia saat pesanan diproses (berat, nilai, jarak, estimasi hari, biaya kirim, lama proses gudang, segmen pelanggan, kategori produk, metode kirim, kurir, ukuran paket, metode bayar, prioritas, dan cuaca). Masalah ini dirumuskan sebagai **klasifikasi biner terawasi**:
 
 | Label | Arti | Asal |
 |:--:|---|---|
