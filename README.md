@@ -1,8 +1,8 @@
 # TB1-JST-Kelompok_Bebas — Klasifikasi Keterlambatan Pengiriman E-Commerce dengan Perceptron dan ADALINE
 
-Tugas Besar 1 mata kuliah **Jaringan Syaraf Tiruan (IT6053)**, FTI UKDW.
+Tugas Besar 1 mata kuliah **Jaringan Syaraf Tiruan**.
 
-**Kasus.** Memprediksi apakah suatu pesanan e-commerce akan **terlambat dikirim** berdasarkan informasi yang sudah tersedia saat pesanan diproses (berat, nilai, jarak, estimasi hari, biaya kirim, lama proses gudang, segmen pelanggan, kategori produk, metode kirim, kurir, ukuran paket, metode bayar, prioritas, dan cuaca). Masalah ini dirumuskan sebagai **klasifikasi biner terawasi**:
+Kasus memprediksi apakah suatu pesanan e-commerce akan **terlambat dikirim** berdasarkan informasi yang sudah tersedia saat pesanan diproses (berat, nilai, jarak, estimasi hari, biaya kirim, lama proses gudang, segmen pelanggan, kategori produk, metode kirim, kurir, ukuran paket, metode bayar, prioritas, dan cuaca). Masalah ini dirumuskan sebagai **klasifikasi biner terawasi**:
 
 | Label | Arti | Asal |
 |:--:|---|---|
@@ -38,8 +38,6 @@ Dua neuron tunggal, **Perceptron** (Rosenblatt, 1958) dan **ADALINE / Delta Rule
 | [requirements.txt](requirements.txt) | Dependensi dan versinya |
 | [figures/](figures/) | Semua gambar yang dihasilkan notebook (EDA, kurva, confusion matrix, bobot, decision boundary) |
 | [results/](results/) | Tabel hasil dalam CSV (ringkasan 8 konfigurasi, epoch 10/30/50, confusion matrix, bobot & bias, split, validasi) |
-| [docs/draft_laporan.md](docs/draft_laporan.md) | Draf isi laporan (bahan untuk PDF) |
-| [Tugas_Besar_1_JST_Panduan_dan_Rubrik.pdf](Tugas_Besar_1_JST_Panduan_dan_Rubrik.pdf) | Panduan & rubrik tugas dari dosen |
 
 ---
 
